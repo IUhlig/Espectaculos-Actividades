@@ -2,7 +2,7 @@
 
 ## 1. Integrantes
 
-| Nombre | Número de estudiante |
+| Nombre | Números de estudiantes |
 |---|---|
 | Itan Uhlig | 269006 |
 | Joaquin Bonora | Pendiente |
