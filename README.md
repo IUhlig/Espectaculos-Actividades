@@ -6,7 +6,7 @@
 |---|---|
 | Itan Uhlig | 269006 |
 | Joaquin Bonora | Pendiente |
-| Joaquín Moreira | Pendiente |
+| Joaquín Moreira | 357603 |
 
 
 ## 2. Descripción del proyecto
